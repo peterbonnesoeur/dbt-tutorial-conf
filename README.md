@@ -1,4 +1,9 @@
-Welcome to your new dbt project!
+# Meetup 1: Introduction to dbt, sql on steroids.
+
+
+Welcome to your this dbt project produced for the following [data engineering talk](https://www.meetup.com/data-engineering-bern/events/284587199/) hosted by the meetup group[Data engineering Bern](https://www.meetup.com/data-engineering-bern/)
+
+The slide for the talk are available [here](dbt-demo.pdf)
 
 ### Using the starter project
 
